@@ -26,7 +26,7 @@ function App() {
 				<Route
 					exact
 					path="/"
-					component={products}
+					component={Products}
 				/>
 
 				<Route

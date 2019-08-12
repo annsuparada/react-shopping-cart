@@ -89,7 +89,7 @@ x In the value prop we'll pass in the products state, and an addItem function th
 
 **STEP 3 - Consuming data with ProductContext**
 
-- Now that our `ProductContext` is now providing data we can finally consume it! To do so let's head over to our `Products` component and import the `useContext` hook as well as our `ProductContext`.
+x Now that our `ProductContext` is now providing data we can finally consume it! To do so let's head over to our `Products` component and import the `useContext` hook as well as our `ProductContext`.
 
 - In the component, call the `useContext` hook and pass in the context object we want to use into it.
 
